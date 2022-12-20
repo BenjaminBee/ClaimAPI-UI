@@ -1,0 +1,69 @@
+.box-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 75px;
+    padding: 1rem;
+    padding-right: 5rem;
+    color: black;
+    font-weight: normal;
+}
+
+.col {
+    /* border: 2px solid #30343F; */
+    margin: 1.5rem;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.listGroups {
+    text-align: justify;
+}
+
+.advantages {
+    text-align: center;
+}
+
+h3, h5 {
+    text-align: center;
+    font-weight: normal;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+.reactIcon {
+    width: 1.5em;
+    height: 1.5em;
+    align-self: center;
+    color: black;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.portrait {
+    border-radius: 50%;
+    width: 10em;
+    height: 10em;
+    margin: 1em;
+}
+
+.portraitName {
+    text-decoration: underline;
+}
+
+.portraitTitle {
+    font-size: small;
+    font-weight: lighter;
+}
+
+.button {
+    margin-right: 1em;
+    margin-bottom: 5em;
+}

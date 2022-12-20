@@ -1,0 +1,22 @@
+.footer {
+    background-color: #303655;
+    padding: 0.5em;
+    border-top: 5px solid #b9d5fd;
+}
+
+.copyright {
+    color: white;
+    font-weight: lighter;
+    font-size: small;
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.footerIcons {
+    width: 1.5em;
+    height: 1.5em;
+    color:white;
+    margin-right: 1em;
+}

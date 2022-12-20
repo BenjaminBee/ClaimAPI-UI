@@ -1,0 +1,25 @@
+.home {
+    font-size: xx-large;
+    font-weight: lighter;
+}
+
+.navbarNav {
+    background-color: #303655;
+    font-size: large;
+    border-bottom: 5px solid #b9d5fd;
+    font-weight: lighter;
+    color: #FAFAFF;
+}
+
+.iconLogo {
+    width: 2em;
+    height: 2em;
+    align-self: center;
+    margin-right: 1em;
+}
+
+.logoImg {
+    width: 15%;
+    height: 15%;
+    padding-right: 10px;
+}
